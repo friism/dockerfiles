@@ -5,3 +5,7 @@ https://www.visualstudio.com/downloads/#build-tools-for-visual-studio-2017-rc
 ## How to use
 
     docker run friism/vs-build-tools msbuild /h
+
+## Source code
+
+https://github.com/friism/dockerfiles/tree/master/vs-build-tools
